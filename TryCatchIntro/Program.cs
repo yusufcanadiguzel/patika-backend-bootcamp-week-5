@@ -18,7 +18,8 @@ do
     catch (Exception exception)
     {
         // hata mesaji
-        Console.WriteLine("Gecersiz giris!");
+        Console.WriteLine("Geçersiz giriş! Lütfen bir sayı giriniz.");
+        Console.WriteLine($"Hata mesajı: {exception.Message}");
     }
 
     
