@@ -1,6 +1,6 @@
 # Arrays Intro Project
 
-This is the array intro project for week 3 of the Patika+ Back-End Program. 
+This is the array intro project for week 5 of the Patika+ Back-End Program. 
 
 Technologies used in the project. They are:
 - C#
